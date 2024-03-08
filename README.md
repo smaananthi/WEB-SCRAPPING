@@ -11,3 +11,13 @@ This file contains data extraction from the Wikipedia page using the library Bea
 - Finding unordered (bulleted) list
 - Finding ordered (numbered) list
 - Finding tables
+### wikipedia_library_web_scrapping.ipynb
+This file contains data extraction from Wikipedia page using Wikipedia library.
+- Install wikipedia library
+- Search for topic
+- get summary
+- Print the full summary
+- Get URL of the page
+- get all references link from that page
+- get images
+- Get a specific table
